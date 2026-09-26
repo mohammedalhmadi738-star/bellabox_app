@@ -1,0 +1,179 @@
+{
+  "app": {
+    "tagline": "متجرك الفاخر للجمال والعناية"
+  },
+  "common": {
+    "cancel": "إلغاء",
+    "confirm": "تأكيد",
+    "save": "حفظ",
+    "back": "رجوع",
+    "next": "التالي",
+    "skip": "تخطي",
+    "retry": "إعادة المحاولة",
+    "seeAll": "عرض الكل",
+    "yes": "نعم",
+    "no": "لا",
+    "total": "الإجمالي",
+    "subtotal": "المجموع الفرعي",
+    "shipping": "الشحن",
+    "tax": "الضريبة (15%)",
+    "discount": "الخصم",
+    "free": "مجاني",
+    "soon": "قريباً"
+  },
+  "errors": {
+    "generic": "حدث خطأ ما",
+    "validation": "بيانات غير صالحة"
+  },
+  "onboarding": {
+    "page1Title": "أهلاً بكِ في بيلا بوكس",
+    "page1Body": "متجرك الفاخر لأرقى منتجات التجميل والعناية العالمية",
+    "page2Title": "تحليل بشرتك بالذكاء الاصطناعي",
+    "page2Body": "اكتشفي احتياجات بشرتك واحصلي على توصيات مخصصة لكِ",
+    "page3Title": "مكافآت وامتيازات حصرية",
+    "page3Body": "اجمعي النقاط مع كل طلب واستمتعي بعروض حصرية",
+    "getStarted": "لنبدأ"
+  },
+  "auth": {
+    "loginTitle": "تسجيل الدخول",
+    "loginSubtitle": "أدخلي رقم جوالك للمتابعة",
+    "phone": "رقم الجوال",
+    "phoneHint": "5xxxxxxxx",
+    "sendCode": "إرسال الرمز",
+    "otpTitle": "التحقق من الرمز",
+    "otpSubtitle": "أدخلي الرمز المرسل إلى",
+    "otpResend": "إعادة إرسال الرمز",
+    "otpResendIn": "إعادة الإرسال بعد",
+    "otpSeconds": "ثانية",
+    "verify": "تحقق",
+    "verifying": "جارٍ التحقق...",
+    "invalidPhone": "رقم جوال غير صحيح",
+    "termsAgree": "بالمتابعة أوافق على",
+    "termsLink": "الشروط والأحكام",
+    "and": "و",
+    "privacyLink": "سياسة الخصوصية",
+    "successTitle": "تم التحقق بنجاح!",
+    "successBody": "مرحباً بكِ في بيلا بوكس"
+  },
+  "home": {
+    "hello": "أهلاً",
+    "search": "ابحثي عن منتجاتك المفضلة",
+    "categories": "الأقسام",
+    "featured": "منتجات مميزة",
+    "newArrivals": "وصل حديثاً",
+    "bestSellers": "الأكثر مبيعاً",
+    "bottomNav": {
+      "home": "الرئيسية",
+      "categories": "الأقسام",
+      "cart": "السلة",
+      "orders": "طلباتي",
+      "profile": "حسابي"
+    }
+  },
+  "search": {
+    "hint": "ابحثي عن منتج، ماركة، أو قسم...",
+    "recent": "عمليات البحث الأخيرة",
+    "clearAll": "مسح الكل",
+    "noResults": "لم نجد أي نتائج",
+    "noResultsHint": "جربي كلمات بحث مختلفة",
+    "startTyping": "ابدئي الكتابة للبحث"
+  },
+  "categories": {
+    "title": "الأقسام",
+    "empty": "لا توجد أقسام حالياً"
+  },
+  "product": {
+    "description": "الوصف",
+    "ingredients": "المكونات",
+    "howToUse": "طريقة الاستخدام",
+    "reviews": "التقييمات",
+    "related": "منتجات مشابهة",
+    "addToCart": "أضف للسلة",
+    "addedToCart": "تمت الإضافة إلى السلة",
+    "outOfStock": "غير متوفر",
+    "inStock": "متوفر",
+    "lowStock": "الكمية محدودة",
+    "reviewsSoon": "التقييمات قادمة قريباً"
+  },
+  "cart": {
+    "title": "سلة التسوق",
+    "empty": "سلتك فارغة",
+    "emptyHint": "اكتشفي منتجاتنا وأضيفي ما يعجبك",
+    "shopNow": "تسوقي الآن",
+    "couponHint": "أدخلي رمز الكوبون",
+    "applyCoupon": "تطبيق",
+    "removeCoupon": "إزالة",
+    "proceedToCheckout": "إتمام الطلب"
+  },
+  "checkout": {
+    "title": "إتمام الطلب",
+    "address": "عنوان التوصيل",
+    "chooseAddress": "اختاري العنوان",
+    "addAddress": "إضافة عنوان جديد",
+    "orderSummary": "ملخص الطلب",
+    "paymentMethod": "طريقة الدفع",
+    "chooseMethod": "اختاري طريقة الدفع",
+    "moyasar": "بطاقة ائتمانية / مدى / Apple Pay",
+    "tabby": "تابي — قسّمها على 4",
+    "tamara": "تمارا — ادفع لاحقاً",
+    "cod": "الدفع عند الاستلام",
+    "termsAgree": "أوافق على الشروط والأحكام",
+    "placeOrder": "تأكيد الطلب",
+    "placing": "جارٍ التأكيد..."
+  },
+  "payment": {
+    "tryAgain": "المحاولة مرة أخرى",
+    "viewOrder": "عرض الطلب",
+    "backToHome": "العودة للرئيسية",
+    "processingTitle": "جارٍ معالجة الدفع",
+    "processingBody": "يرجى الانتظار قليلاً...",
+    "initiating": "جارٍ تجهيز صفحة الدفع...",
+    "completeInBrowser": "أكمل عملية الدفع في المتصفح ثم عد إلى التطبيق",
+    "checkLater": "التحقق لاحقاً من طلباتي",
+    "successTitle": "تم الدفع بنجاح! 🎉",
+    "successBody": "شكراً لتسوقك مع بيلا بوكس، سنبدأ بتجهيز طلبك فوراً",
+    "failedTitle": "فشلت عملية الدفع",
+    "failedBody": "لم تكتمل عملية الدفع. يمكنك المحاولة مرة أخرى أو اختيار طريقة دفع مختلفة"
+  },
+  "orders": {
+    "title": "طلباتي",
+    "empty": "لا توجد طلبات بعد",
+    "emptyHint": "اكتشفي منتجاتنا وابدئي التسوق",
+    "orderNumber": "رقم الطلب",
+    "status": {
+      "pending": "بانتظار التأكيد",
+      "confirmed": "مؤكد",
+      "processing": "قيد التجهيز",
+      "shipped": "تم الشحن",
+      "delivered": "تم التوصيل",
+      "cancelled": "ملغي",
+      "refunded": "مسترجع"
+    },
+    "cancelOrder": "إلغاء الطلب",
+    "items": "المنتجات",
+    "loginRequired": "سجّل الدخول لعرض طلباتك",
+    "cancelConfirm": "هل أنت متأكد من إلغاء هذا الطلب؟ لا يمكن التراجع عن هذا الإجراء",
+    "cancelled": "تم إلغاء الطلب بنجاح"
+  },
+  "profile": {
+    "title": "حسابي",
+    "editProfile": "تعديل البيانات",
+    "wishlist": "المفضلة",
+    "addresses": "عناويني",
+    "language": "اللغة",
+    "notifications": "الإشعارات",
+    "about": "عن التطبيق",
+    "privacy": "سياسة الخصوصية",
+    "terms": "الشروط والأحكام",
+    "logout": "تسجيل الخروج",
+    "logoutConfirm": "هل تريدين تسجيل الخروج؟",
+    "guestTitle": "سجّل الدخول للوصول إلى طلباتك ومفضلتك وعناوينك"
+  },
+  "offline": {
+    "noConnection": "لا يوجد اتصال بالإنترنت"
+  },
+  "notifications": {
+    "empty": "لا توجد إشعارات",
+    "emptyHint": "ستظهر هنا إشعارات طلباتك والعروض الجديدة"
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "app": {
+    "tagline": "Your luxury beauty & care destination"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "save": "Save",
+    "back": "Back",
+    "next": "Next",
+    "skip": "Skip",
+    "retry": "Retry",
+    "seeAll": "See all",
+    "yes": "Yes",
+    "no": "No",
+    "total": "Total",
+    "subtotal": "Subtotal",
+    "shipping": "Shipping",
+    "tax": "VAT (15%)",
+    "discount": "Discount",
+    "free": "Free",
+    "soon": "Soon"
+  },
+  "errors": {
+    "generic": "Something went wrong",
+    "validation": "Invalid data"
+  },
+  "onboarding": {
+    "page1Title": "Welcome to Bella Box",
+    "page1Body": "Your luxury destination for premium beauty & care products",
+    "page2Title": "AI Skin Analysis",
+    "page2Body": "Discover your skin needs and get personalized recommendations",
+    "page3Title": "Exclusive Rewards",
+    "page3Body": "Earn points with every order and enjoy exclusive offers",
+    "getStarted": "Get Started"
+  },
+  "auth": {
+    "loginTitle": "Sign in",
+    "loginSubtitle": "Enter your phone number to continue",
+    "phone": "Phone number",
+    "phoneHint": "5xxxxxxxx",
+    "sendCode": "Send code",
+    "otpTitle": "Verify code",
+    "otpSubtitle": "Enter the code sent to",
+    "otpResend": "Resend code",
+    "otpResendIn": "Resend in",
+    "otpSeconds": "s",
+    "verify": "Verify",
+    "verifying": "Verifying...",
+    "invalidPhone": "Invalid phone number",
+    "termsAgree": "By continuing you agree to our",
+    "termsLink": "Terms",
+    "and": "and",
+    "privacyLink": "Privacy Policy",
+    "successTitle": "Verified successfully!",
+    "successBody": "Welcome to Bella Box"
+  },
+  "home": {
+    "hello": "Hello",
+    "search": "Search your favorite products",
+    "categories": "Categories",
+    "featured": "Featured",
+    "newArrivals": "New Arrivals",
+    "bestSellers": "Best Sellers",
+    "bottomNav": {
+      "home": "Home",
+      "categories": "Categories",
+      "cart": "Cart",
+      "orders": "Orders",
+      "profile": "Profile"
+    }
+  },
+  "search": {
+    "hint": "Search products, brands, categories...",
+    "recent": "Recent searches",
+    "clearAll": "Clear all",
+    "noResults": "No results found",
+    "noResultsHint": "Try different keywords",
+    "startTyping": "Start typing to search"
+  },
+  "categories": {
+    "title": "Categories",
+    "empty": "No categories yet"
+  },
+  "product": {
+    "description": "Description",
+    "ingredients": "Ingredients",
+    "howToUse": "How to use",
+    "reviews": "Reviews",
+    "related": "You may also like",
+    "addToCart": "Add to cart",
+    "addedToCart": "Added to cart",
+    "outOfStock": "Out of stock",
+    "inStock": "In stock",
+    "lowStock": "Low stock",
+    "reviewsSoon": "Reviews coming soon"
+  },
+  "cart": {
+    "title": "Cart",
+    "empty": "Your cart is empty",
+    "emptyHint": "Discover our products and add what you love",
+    "shopNow": "Shop now",
+    "couponHint": "Enter coupon code",
+    "applyCoupon": "Apply",
+    "removeCoupon": "Remove",
+    "proceedToCheckout": "Proceed to checkout"
+  },
+  "checkout": {
+    "title": "Checkout",
+    "address": "Delivery address",
+    "chooseAddress": "Choose address",
+    "addAddress": "Add new address",
+    "orderSummary": "Order summary",
+    "paymentMethod": "Payment method",
+    "chooseMethod": "Choose payment method",
+    "moyasar": "Credit Card / mada / Apple Pay",
+    "tabby": "Tabby — Split in 4",
+    "tamara": "Tamara — Pay Later",
+    "cod": "Cash on Delivery",
+    "termsAgree": "I agree to the terms & conditions",
+    "placeOrder": "Place order",
+    "placing": "Placing order..."
+  },
+  "payment": {
+    "tryAgain": "Try Again",
+    "viewOrder": "View Order",
+    "backToHome": "Back to Home",
+    "processingTitle": "Processing Payment",
+    "processingBody": "Please wait a moment...",
+    "initiating": "Preparing payment page...",
+    "completeInBrowser": "Complete the payment in your browser, then return to the app",
+    "checkLater": "Check later in my orders",
+    "successTitle": "Payment Successful! 🎉",
+    "successBody": "Thank you for shopping with Bella Box. We will start preparing your order right away",
+    "failedTitle": "Payment Failed",
+    "failedBody": "The payment was not completed. You can try again or choose a different payment method"
+  },
+  "orders": {
+    "title": "My Orders",
+    "empty": "No orders yet",
+    "emptyHint": "Discover our products and start shopping",
+    "orderNumber": "Order number",
+    "status": {
+      "pending": "Pending",
+      "confirmed": "Confirmed",
+      "processing": "Processing",
+      "shipped": "Shipped",
+      "delivered": "Delivered",
+      "cancelled": "Cancelled",
+      "refunded": "Refunded"
+    },
+    "cancelOrder": "Cancel order",
+    "items": "Items",
+    "loginRequired": "Log in to view your orders",
+    "cancelConfirm": "Are you sure you want to cancel this order? This action cannot be undone",
+    "cancelled": "Order cancelled successfully"
+  },
+  "profile": {
+    "title": "Profile",
+    "editProfile": "Edit profile",
+    "wishlist": "Wishlist",
+    "addresses": "My addresses",
+    "language": "Language",
+    "notifications": "Notifications",
+    "about": "About",
+    "privacy": "Privacy policy",
+    "terms": "Terms & conditions",
+    "logout": "Sign out",
+    "logoutConfirm": "Do you want to sign out?",
+    "guestTitle": "Log in to access your orders, wishlist and addresses"
+  },
+  "offline": {
+    "noConnection": "No internet connection"
+  },
+  "notifications": {
+    "empty": "No notifications",
+    "emptyHint": "Order updates and new offers will appear here"
+  }
+}
